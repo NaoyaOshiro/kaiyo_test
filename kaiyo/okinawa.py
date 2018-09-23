@@ -1,0 +1,3 @@
+
+
+print "okinawa.py"
